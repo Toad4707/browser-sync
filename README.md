@@ -72,4 +72,4 @@ If you've found Browser-sync useful and would like to contribute to its continue
 Originally supported by [JH](https://www.wearejh.com) - they provided financial support as well as access to a professional designer to help with Branding.
 
 Apache 2
-Copyright (c) 2021 Shane Osbourne
+Copyright (c) 2022 Shane Osbourne
